@@ -6,3 +6,4 @@ for x in f:
     calculation = (calculation//3)-2
     total += calculation
 print (total)
+f.close()
